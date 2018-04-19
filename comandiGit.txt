@@ -19,4 +19,4 @@ git rm nomeFile: rimuove il file
 git merge nomeBranch: merge your changes from the nomeBranch into the actual branch
 git branch -d nomeBranch: cancella nomeBranch 
 
---- Ho aggiunto questa modifica ---
+
